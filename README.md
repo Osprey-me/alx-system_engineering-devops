@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Content in the scripts as per questions 
 0. Where am I?
 1. What’s in there?
@@ -15,3 +16,6 @@
 13. We are symbols, and inhabit symbols
 14. Copy HTML files
 15. Let’s move
+=======
+# alx-system_engineering-devops
+>>>>>>> b5831b823c05495078cdab7345aa8b279ffe0d3e
