@@ -1,3 +1,2 @@
-#!/bin/bash 
-scho "Copying html files from current to parent directory"
+#!/bin/bash
 cp *.html -t cd ..

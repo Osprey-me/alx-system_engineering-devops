@@ -1,2 +1,2 @@
-#!/bin/bash 
-rm /tmp/u/[[:upper:]]
+#!/bin/bash
+mv [[:upper:]] /tmp/u/
