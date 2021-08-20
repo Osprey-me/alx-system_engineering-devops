@@ -1,8 +1,5 @@
-#!/bin/bash 
-echo "Current Directory"
-ls -lah
-echo "Parent Directory"
+#!/bin/bash
+ls -lh
 cd ..
-ls -lah 
-echo "/boot directory"
-cd /boot 
+ls -lh
+cd /boot
